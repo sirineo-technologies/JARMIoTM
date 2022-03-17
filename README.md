@@ -1,11 +1,13 @@
 ## Sobre a JARM IoT M
 
 Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a JARM IoT M que usa o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data,
-tinha qualquer informação sobre esse incrível equipamento !
+tinha qualquer informação sobre esse incrível equipamento ! 
+
+
 
 
 <p align="center">
-<img width="520" height="481" src="http://sirineotechnologies.com/wp-content/uploads/2021/05/jarmd.png">
+<img width="686" height="565" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-iso.png">
 </p align="center">
 
 ## História da JARM IoT M
