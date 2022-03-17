@@ -1,6 +1,7 @@
 ## Sobre a JARM IoT M
 
-Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a JARM IoT M que usa o poderoso ARM Cortex M0.
+Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a JARM IoT M que usa o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data,
+tinha qualquer informação sobre esse incrível equipamento !
 
 
 <p align="center">
