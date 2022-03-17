@@ -14,7 +14,7 @@ A JARM IoT M foi a primeira plataforma de hardware para IoT desenvolvida pela Si
 processador ATSAMD21G18 ARM Cortex M0 baixo consumo, com clock de 48 MHz e lógica de 3.3V, o mesmo usado no Arduino MKR1000. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
 e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um chip tipo FTDI. 
 
-![](jarmiot-mgif.gif)
+![](https://github.com/sirineo-technologies/JARMIoTM/blob/main/figuras/jarmiot-mgif.gif)
 
 Para o Brasil a SiriNEO TECHNOLOGIES lançou o formato padrão (form factor) "JARM", a idéia é que com esse formato mecânico se pudesse ter um gasto menor com cases em 3D e casebox encontrados no mercado. Muito se esquece que
 onde o seu hardware vai ser montado vai impactar lá no final.
