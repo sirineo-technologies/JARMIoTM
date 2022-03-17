@@ -10,7 +10,7 @@ tinha qualquer informação sobre esse incrível equipamento !
 </p align="center">
 
 <p align="center">
-<img width="1280" height="720" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-topo-button.png">
+<img width="853" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-topo-button.png">
 </p align="center">
 
 ## História da JARM IoT M
