@@ -10,6 +10,10 @@ tinha qualquer informação sobre esse incrível equipamento !
 Podemos afirmar que a JARM IoT M é um evolução da Tatamaya Black, onde o principal propósito foi desenvolver uma plataforma de hardware bem específica para IoT, que te possibilitasse
 a operacionalidade com vários tipos de protocolos IoT com toda toda robustez e capacidade que um ARM pudesse oferecer.
 
+<p align="center">
+  <img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-videogif2.gif" />
+</p>
+
 A JARM IoT M foi a primeira plataforma de hardware para IoT desenvolvida pela SiriNEO TECHNOLOGIES, extremamente pequena (pouco maior que uma moeda de 1 Real), ela utiliza o poderoso 
 processador ATSAMD21G18 ARM Cortex M0 baixo consumo, com clock de 48 MHz e lógica de 3.3V, o mesmo usado no Arduino MKR1000. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
 e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um chip tipo FTDI. 
