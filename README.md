@@ -18,7 +18,7 @@ Para o Brasil a SiriNEO TECHNOLOGIES lançou o formato padrão (form factor) "JA
 onde o seu hardware vai ser montado vai impactar lá no final.
 
 <p align="center">
-<img width="532" height="731" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-case3d-logo-scaled.jpg">
+<img width="853" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-topo-button.png">
 </p align="center">
 
 
@@ -29,9 +29,8 @@ onde o seu hardware vai ser montado vai impactar lá no final.
 Abaixo um modelo de [case 3D](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies) projetado pela SiriNEO Technologies para um MVP de um dispositivo de rastreamento e monitoramento.
 
 <p align="center">
-<img width="853" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-topo-button.png">
+<img width="490" height="673" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-case3d-logo-scaled.jpg">
 </p align="center">
-
 
 
 ## Nosso e-mail
