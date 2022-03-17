@@ -15,12 +15,17 @@ processador ATSAMD21G18 ARM Cortex M0 baixo consumo, com clock de 48 MHz e lógi
 e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um chip tipo FTDI. 
 
 Para o Brasil a SiriNEO TECHNOLOGIES lançou o formato padrão (form factor) "JARM", a idéia é que com esse formato mecânico se pudesse ter um gasto menor com cases em 3D e casebox encontrados no mercado. Muito se esquece que
-onde o seu hardware vai funcionar vai impactar lá no final.
+onde o seu hardware vai ser montado vai impactar lá no final.
 
 <p align="center">
 <img width="853" height="480" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-topo-button.png">
 </p align="center">
 
+Abaixo um modelo de [case 3D](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies) projetado pela SiriNEO Technologies para um MVP de um dispositivo de rastreamento e monitoramento.
+
+<p align="center">
+<img width="621" height="853" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-case3d-logo-scaled.jpg">
+</p align="center">
 
 
 ## História da JARM IoT M
