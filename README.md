@@ -15,7 +15,7 @@ processador ATSAMD21G18 ARM Cortex M0 baixo consumo, com clock de 48 MHz e lógi
 e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um chip tipo FTDI. 
 
 <p align="center">
-![](https://github.com/sirineo-technologies/JARMIoTM/blob/main/figuras/jarmiot-mgif.gif)
+  <img src="https://github.com/sirineo-technologies/JARMIoTM/blob/main/figuras/jarmiot-mgif.gif" alt="gif jarmiotm" />
 </p>
 
 Para o Brasil a SiriNEO TECHNOLOGIES lançou o formato padrão (form factor) "JARM", a idéia é que com esse formato mecânico se pudesse ter um gasto menor com cases em 3D e casebox encontrados no mercado. Muito se esquece que
