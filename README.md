@@ -11,7 +11,7 @@ Podemos afirmar que a JARM IoT M é um evolução da Tatamaya Black, onde o prin
 a operacionalidade com vários tipos de protocolos IoT com toda toda robustez e capacidade que um ARM pudesse oferecer.
 
 <p align="center">
-  <img src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-videogif2.gif" />
+  <img src="https://github.com/sirineo-technologies/JARMIoTM/blob/main/figuras/jarmiot-videogif2.gif"/>
 </p>
 
 A JARM IoT M foi a primeira plataforma de hardware para IoT desenvolvida pela SiriNEO TECHNOLOGIES, extremamente pequena (pouco maior que uma moeda de 1 Real), ela utiliza o poderoso 
