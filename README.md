@@ -4,7 +4,7 @@ Na data de 17 de março de 2022 estamos lançando oficialmente a documentação 
 tinha qualquer informação sobre esse incrível equipamento ! 
 
 <p align="center">
-<img width="686" height="565" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-iso.png">
+<img width="514" height="424" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-iso.png">
 </p align="center">
 
 Podemos afirmar que a JARM IoT M é um evolução da Tatamaya Black, onde o principal propósito foi desenvolver uma plataforma de hardware bem específica para IoT, que te possibilitasse
@@ -26,7 +26,8 @@ onde o seu hardware vai ser montado vai impactar lá no final.
 
 ## Alguns projetos de MVP com a JARM IoT M
 
-Abaixo um modelo de [case 3D](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies) projetado pela SiriNEO Technologies para um MVP de um dispositivo de rastreamento e monitoramento.
+Abaixo um modelo de [case 3D](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies) projetado pela SiriNEO Technologies para um MVP de um dispositivo de rastreamento e monitoramento desenvolvido
+para testes com SigFOX usando a [SigBOT](https://github.com/sirineo-technologies/SigBOT) e [GeoBOT](https://github.com/sirineo-technologies/GeoBOT) em uma empresa no Rio de Janeiro.
 
 <p align="center">
 <img width="490" height="673" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-case3d-logo-scaled.jpg">
