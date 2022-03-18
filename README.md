@@ -1,6 +1,7 @@
 ## Sobre a JARM IoT M
 
-Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a brasileiríssima JARM IoT M (JARM Internet of Things  Multiprotocols), que usa o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data,
+Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a brasileiríssima JARM IoT M (JARM Internet of Things  Multiprotocols), que usa 
+o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data,
 tinha qualquer informação sobre esse nosso incrível equipamento ! 
 
 <p align="center">
@@ -35,12 +36,18 @@ Assista esse [vídeo sobre a JARM IoT M](https://www.youtube.com/watch?v=Z8g1JgJ
 
 * Da Tatamaya Black a JARM IoT M
 
-A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomos com tempo realizando testes e experimentos com projetos e laguns protocolos sem fio, bem como interfaces de comunicação Serial UART, I2C, SPI, etc..
+A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomos com tempo realizando testes e experimentos com projetos e alguns protocolos sem fio, bem como interfaces de comunicação Serial UART, I2C, SPI, etc..
 
 <p align="center">
 <img width="602" height="399" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/Jarmiot-tatamaya-black.jpeg">
 </p align="center">
 
+Deve ser entendido sempre que a Plataforma de Hardware Arduino não atende a todas as necessidades em projetos mais complexos em IoT, seu principal objetivo foi de criar pequenos projetos e prototipagem não complexas e 
+de baixo custo. 
+
+## O microcontrolador da JARM IoT M
+
+## Não compre a JARM IoT M !
 
 ## Alguns projetos de MVP com a JARM IoT M
 
