@@ -29,7 +29,7 @@ onde o seu hardware vai ser montado vai impactar lá no final.
 <img width="581" height="375" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-moeda.jpeg">
 </p align="center">
 
-
+Assista esse [vídeo sobre a JARM IoT M](https://www.youtube.com/watch?v=Z8g1JgJUod8&feature=youtu.be) no YouTube no Canal da SiriNEO TECHNOLOGIES.
 
 ## História da JARM IoT M
 
