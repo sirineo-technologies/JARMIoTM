@@ -33,7 +33,9 @@ Assista esse [vídeo sobre a JARM IoT M](https://www.youtube.com/watch?v=Z8g1JgJ
 
 ## História da JARM IoT M
 
-* Da Tatamaya black a JARM IoT M
+* Da Tatamaya Black a JARM IoT M
+
+A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomos com tempo realizando testes e experimentos com projetos e laguns protocolos sem fio, bem como interfaces de comunicação Serial UART, I2C, SPI, etc..
 
 <p align="center">
 <img width="602" height="399" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/Jarmiot-tatamaya-black.jpeg">
