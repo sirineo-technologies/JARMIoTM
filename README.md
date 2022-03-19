@@ -58,11 +58,11 @@ equipe de pesquisa, bem como montar o nosso Laboratório [BabaçuLAB Vicente](ht
 
 ## O microcontrolador da JARM IoT M
 
-A JARM IoT M, usa um chip ATSAMD21G18A-U, de baixo consumo, uma CPU ARM Cortex de 32 bits trabalhando a 48MHz e lógica de 3.3 V, o mesmo usado no Arduino Zero. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
+A JARM IoT M, usa um chip ATSAMD21G18A-U, de baixo consumo, uma CPU ARM Cortex de SRAM 32 bits trabalhando a 48MHz e lógica de 3.3 V, o mesmo usado no Arduino Zero. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
 e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um conversor FTDI.
 Você pode programá-la também a IDE do Arduino. Nosso hardware possui integrado um slot Micro-SD com interfacee SPI para que você possa armazenar arquivos de backup. 
  
-Um de seus recursos mais importantes é o  Embedded Debugger (EDBG) da Atmel via conector JTAG (SWD), que fornece uma interface de depuração completa sem a necessidade de hardware adicional, aumentando significativamente a facilidade de uso para depuração de software. 
+Um de seus recursos importantes é um conector JTAG, que fornece uma interface de depuração completa sem a necessidade de hardware adicional, aumentando significativamente a facilidade de uso para depuração de software. 
  
 ## Não compre a JARM IoT M !
 
