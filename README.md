@@ -48,11 +48,11 @@ Nas cores da JARM IoT M orgulhosamente estão representadas as cores do Brasil e
 Tu é doido, esse projeto foi feito na horas de folga, com muito esforço e dedicação, sem termos recursos e apoio no Brasil, participamos de alguns programas mas ainda estamos em busca de investimentos, divulgação e ampliação de nossa
 equipe de pesquisa, bem como montar o nosso Laboratório [BabaçuLAB Vicente](https://www.instagram.com/babaculab.sirineo/reels/) e nossa Startup SiriNEO Technologies em uma estrutura própria.
 
-TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !
-
 <p align="center">
 <img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
 </p align="center">
+
+TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !
 
 ## O microcontrolador da JARM IoT M
 
