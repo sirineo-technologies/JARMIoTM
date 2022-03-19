@@ -53,7 +53,7 @@ Um de seus recursos mais importantes é o  Embedded Debugger (EDBG) da Atmel via
  
 ## Não compre a JARM IoT M !
 
-### Conforme já fora abordado projetamos a JARM IoT M especificamente para projetos avançados que envolvam protocolos como SigFOX, LoRa, ZigBEE, BLE, etc., o hardware possui muitos recuros para aplicações a Internet das Coisas:
+#### Conforme já fora abordado projetamos a JARM IoT M especificamente para projetos avançados que envolvam protocolos como SigFOX, LoRa, ZigBEE, BLE, etc., o hardware possui muitos recuros para aplicações a Internet das Coisas:
 
 * Núcleo de 32 bits que permite operações em dados de 4 bytes em um único clock de CPU
 * TIMER
@@ -63,7 +63,7 @@ Um de seus recursos mais importantes é o  Embedded Debugger (EDBG) da Atmel via
 * DAC: A0. Forneça uma saída de tensão de 10 bits com a  função analogWrite()
 * Duas portas seriais  
 
-### Periféricos
+#### Periféricos
 
 A Plataforma de hardware brasileira JARM IoT M possui diversos recursos para te ajudar no desenvolvimento de suas soluções em IoT:
 
@@ -93,12 +93,13 @@ A Plataforma de hardware brasileira JARM IoT M possui diversos recursos para te 
 24.	Peso:
 25.	Poderá ser utilizada com o carregador de bateria solar SunBOT - ST.
 26.	É compatível com todos os hardwares da EngeBOT Tecnologia e SIRINEO TECHNOLOGIES.
-27.	Compatível com a IDE do Arduino, ARM.
+27.	Compatível com a IDE do Arduino, ARM, Visual Studio, etc.
 28.	Vem com soquete JTAG para depuração do bootloader.
-29.	RTC – Real-Time Counter integrado ao processador.
+29.	Possui RTC – Real-Time Counter integrado ao processador.
 30.	Pinos Extra Digital I/O:  2
 31.	Pinos PWM: 12 (0, 1, 2, 3, 4, 5, 6, 7, 8, 10, A3 - or 18 -, A4 -or 19)
 
+Em testes com nossa Plataforma fomos capazes de utilizar até 3 (três) protocolos IoT com ela, além do que ela pode ser convertida em um Gateway ZigBEE/Wi-Fi de acordo com suas necessidades de testes e projetos.
 
 ## Alguns projetos de MVP com a JARM IoT M
 
