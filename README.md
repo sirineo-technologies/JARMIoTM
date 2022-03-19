@@ -63,9 +63,9 @@ Um de seus recursos mais importantes é o  Embedded Debugger (EDBG) da Atmel via
 * DAC: A0. Forneça uma saída de tensão de 10 bits com a  função analogWrite()
 * Duas portas seriais  
 
-#### Periféricos
+#### Periféricos e recursos da nossa placa brasileira 
 
-A Plataforma de hardware brasileira JARM IoT M possui diversos recursos para te ajudar no desenvolvimento de suas soluções em IoT:
+Pensamos muito nas dificldades dos brasileiros em se ter um hardware que atendesse nossas exigências para IoT, assim a  Plataforma brazuca JARM IoT M possui diversos recursos para te ajudar no desenvolvimento de suas soluções em IoT:
 
 1.	MICROCONTROLADOR SAMD21 ARM Cortex-M0+ 32bit Low Power; 
 2.	Velocidade de Clock: 32.768 kHz (RTC), 48 MHz;
@@ -87,7 +87,7 @@ A Plataforma de hardware brasileira JARM IoT M possui diversos recursos para te 
 18.	2 (dois) soquetes 1x4 para conexão de dispositivos I2C;
 19.	1 (um) soquete 1x4 para conexão de dispositivos UART;
 20.	1 (dum) soquete 1x4 para conexão de dispositivos IN/OUT Digital;
-21.	17. Sensor de Pressão e Temperatura BMP180;
+21.	Sensor de Pressão e Temperatura BMP180;
 22.	Tensão de Alimentação: 5V ou 3.3V (Via bateria Li-Po Single Cell, 3.7V, 700mAh Minimo);
 23.	Extremamente pequena: 43 mm x 37 mm.
 24.	Peso:
