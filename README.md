@@ -43,6 +43,12 @@ A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomo
 Deve ser entendido sempre que a Plataforma de Hardware Arduino não atende a todas as necessidades em projetos mais complexos em IoT, seu principal objetivo foi de criar pequenos projetos e prototipagem não complexas e 
 de baixo custo, bem como para aplicações mais voltadas para aprendizagem. 
 
+Nas cores da JARM IoT M estão representadas as cores do Brasil e do Estado Maranhão terra natal do Engenheiro Projetista [Cirineu - engereggae](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/).
+
+<p align="center">
+<img width="600" height="3335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
+</p align="center">
+
 ## O microcontrolador da JARM IoT M
 
 A JARM IoT M, usa um chip ATSAMD21G18A-U, de baixo consumo, uma CPU ARM Cortex de 32 bits trabalhando a 48MHz e lógica de 3.3 V, o mesmo usado no Arduino Zero. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
