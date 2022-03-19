@@ -1,8 +1,7 @@
 ## Sobre a JARM IoT M
 
 Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a brasileiríssima JARM IoT M (JARM Internet of Things  Multiprotocols), que usa 
-o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data,
-tinha qualquer informação sobre esse nosso incrível equipamento ! 
+o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data, tinha qualquer informação sobre esse nosso incrível equipamento ! 
 
 <p align="center">
 <img width="514" height="424" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-iso.png">
@@ -15,9 +14,8 @@ a operacionalidade com vários tipos de protocolos IoT com toda toda robustez e 
   <img src="https://github.com/sirineo-technologies/JARMIoTM/blob/main/figuras/jarmiot-videogif2.gif"/>
 </p>
 
-A JARM IoT M foi a primeira plataforma de hardware para IoT desenvolvida pela SiriNEO TECHNOLOGIES, extremamente pequena (pouco maior que uma moeda de 1 Real), ela utiliza o poderoso 
-processador ATSAMD21G18 ARM Cortex M0 baixo consumo, com clock de 48 MHz e lógica de 3.3V, o mesmo usado no Arduino MKR1000. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
-e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um chip tipo FTDI. 
+A JARM IoT M foi a primeira plataforma de hardware para IoT desenvolvida pela SiriNEO TECHNOLOGIES, extremamente pequena (pouco maior que uma moeda de 25 centavos), ela foi projetada especificamente para 
+projetos de Internet das Coisas.
 
 <p align="center">
   <img src="https://github.com/sirineo-technologies/JARMIoTM/blob/main/figuras/jarmiot-mgif.gif" alt="gif jarmiotm" />
@@ -36,7 +34,7 @@ Assista esse [vídeo sobre a JARM IoT M](https://www.youtube.com/watch?v=Z8g1JgJ
 
 * Da Tatamaya Black a JARM IoT M
 
-A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomos com tempo realizando testes e experimentos com projetos e alguns protocolos sem fio, bem como interfaces de comunicação Serial UART, I2C, SPI, etc..
+A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomos com tempo realizando testes e experimentos com projetos e alguns protocolos sem fio, bem como interfaces de comunicação A JARM IoT M, possui interface ADC,DAC, GPIO, PWM, SPI, e UART.
 
 <p align="center">
 <img width="602" height="399" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/Jarmiot-tatamaya-black.jpeg">
@@ -47,7 +45,60 @@ de baixo custo, bem como para aplicações mais voltadas para aprendizagem.
 
 ## O microcontrolador da JARM IoT M
 
+A JARM IoT M, usa um chip ATSAMD21G18A-U, de baixo consumo, uma CPU ARM Cortex de 32 bits trabalhando a 48MHz e lógica de 3.3 V, o mesmo usado no Arduino Zero. Este processador tem 256K de FLASH (8x a mais do que o Atmega328 ou 32u4) 
+e 32K de RAM (16x a mais)! Ele vem com USB integrado, por isso tem Programa USB para Serial e capacidade de depuração incorporada sem a necessidade de um conversor FTDI.
+Você pode programá-la também a IDE do Arduino. Nosso hardware possui integrado um slot Micro-SD com interfacee SPI para que você possa armazenar arquivos de backup. 
+ 
+Um de seus recursos mais importantes é o  Embedded Debugger (EDBG) da Atmel via conector JTAG (SWD), que fornece uma interface de depuração completa sem a necessidade de hardware adicional, aumentando significativamente a facilidade de uso para depuração de software. 
+ 
 ## Não compre a JARM IoT M !
+
+### Conforme já fora abordado projetamos a JARM IoT M especificamente para projetos avançados que envolvam protocolos como SigFOX, LoRa, ZigBEE, BLE, etc., o hardware possui muitos recuros para aplicações a Internet das Coisas:
+
+* Núcleo de 32 bits que permite operações em dados de 4 bytes em um único clock de CPU
+* TIMER
+* RTC - Contador em tempo real de 32 bits com função de relógio/calendário
+* Gerador CRC de 32 bits
+* Lógica de 3.3 V
+* DAC: A0. Forneça uma saída de tensão de 10 bits com a  função analogWrite()
+* Duas portas seriais  
+
+### Periféricos
+
+A Plataforma de hardware brasileira JARM IoT M possui diversos recursos para te ajudar no desenvolvimento de suas soluções em IoT:
+
+1.	MICROCONTROLADOR SAMD21 ARM Cortex-M0+ 32bit Low Power; 
+2.	Velocidade de Clock: 32.768 kHz (RTC), 48 MHz;
+3.	Soquete fêmea (TOP) para: XBEE, LoraBOT (UART-SPI), SIGBOT - SERIAL e SPI;
+4.	Soquete macho (BUTTON) para Xbee socket adaptado a BEESP-MF (opcional na parte inferior);
+5.	Soquete fêmea para ESP8266-01;
+6.	LED POWER, conectado à entrada de 5V através da porta USB;
+7.	LED DIO13-on-board, mostra status de programação e demais aplicabilidades;
+8.	LSM9DS0 - Acelerômetro/Gyroscopio/Magnetômetro/Temperatura ;
+9.	Sensor de Luminosidade Phototransistor TEMT6000;
+10.	MICRO SMD 3528 led RGB PLCC-4;
+11.	Emissor de IR – 3mm;
+12.	1 (um) conector JST para conexão de dispositivos com interface one-wire (IN/OUT);
+13.	1 (um) conector JST exclusivo para conexão de push button;
+14.	1 (um) conector JST para conexão de sensores analógicos e saída DAC;
+15.	Entrada JST 2mm para fonte externa de alimentação;
+16.	Small Piezo Electrical Magnetic Buzzer;
+17.	SLOT TransFlash TF Micro para micro SD Card;
+18.	2 (dois) soquetes 1x4 para conexão de dispositivos I2C;
+19.	1 (um) soquete 1x4 para conexão de dispositivos UART;
+20.	1 (dum) soquete 1x4 para conexão de dispositivos IN/OUT Digital;
+21.	17. Sensor de Pressão e Temperatura BMP180;
+22.	Tensão de Alimentação: 5V ou 3.3V (Via bateria Li-Po Single Cell, 3.7V, 700mAh Minimo);
+23.	Extremamente pequena: 43 mm x 37 mm.
+24.	Peso:
+25.	Poderá ser utilizada com o carregador de bateria solar SunBOT - ST.
+26.	É compatível com todos os hardwares da EngeBOT Tecnologia e SIRINEO TECHNOLOGIES.
+27.	Compatível com a IDE do Arduino, ARM.
+28.	Vem com soquete JTAG para depuração do bootloader.
+29.	RTC – Real-Time Counter integrado ao processador.
+30.	Pinos Extra Digital I/O:  2
+31.	Pinos PWM: 12 (0, 1, 2, 3, 4, 5, 6, 7, 8, 10, A3 - or 18 -, A4 -or 19)
+
 
 ## Alguns projetos de MVP com a JARM IoT M
 
