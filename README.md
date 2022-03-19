@@ -52,7 +52,9 @@ equipe de pesquisa, bem como montar o nosso Laboratório [BabaçuLAB Vicente](ht
 <img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
 </p align="center">
 
-TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !
+<p align="center">
+<b>TEMOS ORGULHO DE SERMOS DO BRASIL ! ACHOU MASSA AJUDA A GENTE "RAPÁ" !</b
+</p>
 
 ## O microcontrolador da JARM IoT M
 
