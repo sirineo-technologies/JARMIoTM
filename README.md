@@ -46,7 +46,7 @@ de baixo custo, bem como para aplicações mais voltadas para aprendizagem.
 Nas cores da JARM IoT M estão representadas as cores do Brasil e do Estado Maranhão terra natal do Engenheiro Projetista [Cirineu - engereggae](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/).
 
 <p align="center">
-<img width="600" height="3335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
+<img width="600" height="335" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/brasilemaranhao.webp">
 </p align="center">
 
 ## O microcontrolador da JARM IoT M
