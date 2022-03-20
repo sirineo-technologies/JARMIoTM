@@ -32,7 +32,7 @@ Nossa Plataforma também pode ser vista como um Evaluation Kit que possui vário
 são extremamente complexos, com excesso de funcionalidades e principalmente difícil de se fazer uma reengenharia do projeto para sua aplicação aplicação final.
 
 <p align="center">
-<img width="1218" height="574" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-kit.jpeg">
+<img width="812" height="382" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-kit.jpeg">
 </p align="center">
 
 Outro grande fator é que queremos lançar no Kit JARM IoT M no mercado com um preço bem abaixo de hardwares que são adquiridos fora do Brasil para desenvolvimento de estudos e pesquisas com IoT.
