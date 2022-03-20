@@ -28,8 +28,12 @@ onde o seu hardware vai ser montado vai impactar lá no final.
 <img width="581" height="375" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-moeda.jpeg">
 </p align="center">
 
-Nossa Plataforma também pode ser vista com o Kit Evaluation que vários recursos, onde procuramos facilitar oa vida do usuário simplificando da melhor forma possível o seu uso, pois muitos kits do mercado
-são extremamente complexos, com excesso de funcionalidades e principalmente difícil de se fazer uma reengenharia do projeto para o teste de sua aplicação.
+Nossa Plataforma também pode ser vista como um Evaluation Kit que possui vários recursos, nele procuramos facilitar oa vida do usuário simplificando da melhor forma possível o seu uso, pois muitos kits do mercado
+são extremamente complexos, com excesso de funcionalidades e principalmente difícil de se fazer uma reengenharia do projeto para sua aplicação aplicação final.
+
+<p align="center">
+<img width="1218" height="574" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-kit.jpeg">
+</p align="center">
 
 Outro grande fator é que queremos lançar no Kit JARM IoT M no mercado com um preço bem abaixo de hardwares que são adquiridos fora do Brasil para desenvolvimento de estudos e pesquisas com IoT.
 
@@ -113,10 +117,11 @@ Pensamos muito nas dificldades dos brasileiros em se ter um hardware que atendes
 25.	Poderá ser utilizada com o carregador de bateria solar SunBOT - ST.
 26.	É compatível com todos os hardwares da EngeBOT Tecnologia e SIRINEO TECHNOLOGIES.
 27.	Compatível com a IDE do Arduino, ARM, Visual Studio, etc.
-28.	Vem com soquete JTAG para depuração do bootloader.
+28.	Vem com soquete JTAG/SWD para depuração e programação.
 29.	Possui RTC – Real-Time Counter integrado ao processador.
 30.	Pinos Extra Digital I/O:  2
 31.	Pinos PWM: 12 (0, 1, 2, 3, 4, 5, 6, 7, 8, 10, A3 - or 18 -, A4 -or 19)
+
 
 Em testes com nossa Plataforma fomos capazes de utilizar até 3 (três) protocolos IoT com ela, além do que ela pode ser convertida em um Gateway ZigBEE/Wi-Fi de acordo com suas necessidades de testes e projetos.
 
