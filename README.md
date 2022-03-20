@@ -24,14 +24,15 @@ projetos de Internet das Coisas.
 Para o Brasil a SiriNEO TECHNOLOGIES lançou o formato padrão (form factor) "JARM", a idéia é que com esse formato mecânico se pudesse ter um gasto menor com cases em 3D e casebox encontrados no mercado. Muito se esquece que
 onde o seu hardware vai ser montado vai impactar lá no final.
 
+<p align="center">
+<img width="581" height="375" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-moeda.jpeg">
+</p align="center">
+
 Nossa Plataforma também pode ser vista com o Kit Evaluation que vários recursos, onde procuramos facilitar oa vida do usuário simplificando da melhor forma possível o seu uso, pois muitos kits do mercado
 são extremamente complexos, com excesso de funcionalidades e principalmente difícil de se fazer uma reengenharia do projeto para o teste de sua aplicação.
 
 Outro grande fator é que queremos lançar no Kit JARM IoT M no mercado com um preço bem abaixo de hardwares que são adquiridos fora do Brasil para desenvolvimento de estudos e pesquisas com IoT.
 
-<p align="center">
-<img width="581" height="375" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-moeda.jpeg">
-</p align="center">
 
 Assista esse [vídeo sobre a JARM IoT M](https://www.youtube.com/watch?v=Z8g1JgJUod8&feature=youtu.be) no YouTube no Canal da SiriNEO TECHNOLOGIES.
 
