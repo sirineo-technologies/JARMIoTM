@@ -28,8 +28,8 @@ onde o seu hardware vai ser montado vai impactar lá no final.
 <img width="581" height="375" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-moeda.jpeg">
 </p align="center">
 
-Nossa Plataforma também pode ser vista como um Evaluation Kit que possui vários recursos, nele procuramos facilitar oa vida do usuário simplificando da melhor forma possível o seu uso, pois muitos kits do mercado
-são extremamente complexos, com excesso de funcionalidades e principalmente difícil de se fazer uma reengenharia do projeto para sua aplicação aplicação final.
+Nossa Plataforma também pode ser vista como um Evaluation Kit que possui vários recursos, nele procuramos facilitar a vida do usuário simplificando da melhor forma possível o seu uso, pois muitos kits do mercado
+são extremamente complexos com excesso de funcionalidades e, principalmente, difícil de se fazer uma reengenharia do projeto para sua aplicação final.
 
 <p align="center">
 <img width="812" height="382" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-kit.jpeg">
