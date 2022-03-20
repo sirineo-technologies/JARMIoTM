@@ -51,7 +51,11 @@ A JARM IoT M é uma evolução do shield Tatamaya Black com o Arduino, onde fomo
 </p align="center">
 
 Deve ser entendido sempre que a Plataforma de Hardware Arduino não atende a todas as necessidades em projetos mais complexos em IoT, seu principal objetivo foi de criar pequenos projetos e prototipagem não complexas e 
-de baixo custo, bem como para aplicações mais voltadas para aprendizagem. 
+de baixo custo, bem como para aplicações mais voltadas para aprendizagem. Abaixo a primeira versão da JARM IoT M, a versão atual, e a versão sem alguns recuros do hardware.
+
+<p align="center">
+<img width="731" height="333" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/Jarmiot-tatamaya-black.jpeg">
+</p align="center">
 
 Nas cores da JARM IoT M orgulhosamente estão representadas as cores do Brasil e do Estado Maranhão terra natal do Engenheiro Projetista [Cirineu - engereggae](https://www.linkedin.com/in/cirineu-carvalho-fernandes-20490a37/).
 
