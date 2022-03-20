@@ -1,7 +1,7 @@
 ## Sobre a JARM IoT M
 
 Na data de 17 de março de 2022 estamos lançando oficialmente a documentação sobre nossa melhor Plataforma de Hardware a brasileiríssima JARM IoT M (JARM Internet of Things  Multiprotocols), que usa 
-o poderoso ARM Cortex M0. Oficialmente em nenhum lugar da internet até essa data, tinha qualquer informação sobre esse nosso incrível equipamento ! 
+o poderoso ARM ® Cortex M0+. Oficialmente em nenhum lugar da internet até essa data, tinha qualquer informação sobre esse nosso incrível equipamento ! 
 
 <p align="center">
 <img width="514" height="424" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiotm-iso.png">
@@ -23,6 +23,11 @@ projetos de Internet das Coisas.
 
 Para o Brasil a SiriNEO TECHNOLOGIES lançou o formato padrão (form factor) "JARM", a idéia é que com esse formato mecânico se pudesse ter um gasto menor com cases em 3D e casebox encontrados no mercado. Muito se esquece que
 onde o seu hardware vai ser montado vai impactar lá no final.
+
+Nossa Plataforma também pode ser vista com o Kit Evaluation que vários recursos, onde procuramos facilitar oa vida do usuário simplificando da melhor forma possível o seu uso, pois muitos kits do mercado
+são extremamente complexos, com excesso de funcionalidades e principalmente difícil de se fazer uma reengenharia do projeto para o teste de sua aplicação.
+
+Outro grande fator é que queremos lançar no Kit JARM IoT M no mercado com um preço bem abaixo de hardwares que são adquiridos fora do Brasil para desenvolvimento de estudos e pesquisas com IoT.
 
 <p align="center">
 <img width="581" height="375" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmiot-moeda.jpeg">
@@ -73,8 +78,8 @@ Um de seus recursos importantes é um conector JTAG, que fornece uma interface d
 * RTC - Contador em tempo real de 32 bits com função de relógio/calendário
 * Gerador CRC de 32 bits
 * Lógica de 3.3 V
-* DAC: A0. Forneça uma saída de tensão de 10 bits com a  função analogWrite()
-* Duas portas seriais  
+* DAC: A0. Forneça uma saída de tensão de 10 bits de resolução
+* Duas portas seriais (UARTs - Serial e Serial1) 
 
 #### Periféricos e recursos da nossa placa brasileira 
 
