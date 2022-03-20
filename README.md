@@ -129,6 +129,28 @@ Pensamos muito nas dificldades dos brasileiros em se ter um hardware que atendes
 
 Em testes com nossa Plataforma fomos capazes de utilizar até 3 (três) protocolos IoT com ela, além do que ela pode ser convertida em um Gateway ZigBEE/Wi-Fi de acordo com suas necessidades de testes e projetos.
 
+## JARM IoT M a sua melhor escolha !
+
+Para Internet das Coisas uma coisa é importante de se saber, não existe um protocolo IoT para tudo, em nossos testes no passado com a Tatamaya Black e  Arduino UNO observamos que para alguns casos essa plataforma não atendia devido 
+algumas exigências do hardware, dentre elas:
+
+* Tensão operacional de 5 V
+* Dimensões
+* Falta de periféricos básicos
+* Poucas interrupções
+* Ausência de um contador em tempo real (RTC) com função de relógio/calendário
+* Praticidade em operação com módulos de protocolos IoT com formato xbee
+* Operação com multiprotocolos IoT
+* Customização de Hardware 
+
+Abaixo a JARM IoT M com fotos de acoplamentos e operação com dois protocolos IoT.
+
+<p align="center">
+<img width="853" height="426" src="http://sirineotechnologies.com/wp-content/uploads/2022/03/jarmcom-modulos-gimp-scaled.jpg">
+</p align="center">
+
+Por essa razões podemos dizer que para detemrinado tipos de projeto a JARM IoT M será a sua melhor escolha !
+
 ## Alguns projetos de MVP com a JARM IoT M
 
 Abaixo um modelo de [case 3D](https://github.com/sirineo-technologies/Projetos-3D-SiriNEO-Technologies) projetado pela SiriNEO Technologies para um MVP de um dispositivo de rastreamento e monitoramento desenvolvido
