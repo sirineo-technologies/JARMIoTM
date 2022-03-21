@@ -1,6 +1,6 @@
 ## Códigos JARM IoT M
 
-A Tatá está subindo os cógiso da JARM IoT M...
+A Tatá está subindo os códigos da JARM IoT M...
 
 ## Nosso e-mail
 
